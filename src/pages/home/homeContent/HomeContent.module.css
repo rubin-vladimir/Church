@@ -1,0 +1,17 @@
+.cardContainer {
+    height: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 0 auto;
+    align-items: center;
+
+}
+.wrapper {
+
+}
+.cardContainer p {
+    color: #666666;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+

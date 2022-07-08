@@ -1,0 +1,27 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10em;
+    padding-left: 10rem;
+    margin-left: 50px;
+    width: 100%;
+    height: 100%;
+}
+.wrapper h2 {
+    font-size: 28px;
+    font-weight: 400;
+}
+.wrapper p {
+    margin-top: 35px;
+    font-size: 14px;
+}
+
+.wrapper p:last-child a {
+    background-color: #f4aa3b;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+}
