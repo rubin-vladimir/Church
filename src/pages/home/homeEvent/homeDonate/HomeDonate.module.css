@@ -1,0 +1,19 @@
+
+
+.image {
+    width: 100%;
+
+}
+.wrapperInfo {
+    background: url(../../../../assets/homeCardImage/image-sub.jpeg);
+position: relative;
+
+}
+.wrapperInner {
+    position: absolute;
+
+    top: 0;
+    margin: 0 auto;
+    align-items: center;
+    color:#ffffff;
+}
