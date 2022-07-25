@@ -15,8 +15,13 @@ const HomeContent = () => {
                 </h2>
                 <p>I’m fancy heading shortcode description and above is the Heading!</p>
                 <Row>
+<<<<<<< HEAD
                     <Col>
                         <Card style={{ width: '20rem' }}>
+=======
+                    <Col >
+                        <Card style={{ width: '30rem' }}>
+>>>>>>> origin/master
                             <Image src={HomeCardOne}/>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
@@ -30,8 +35,13 @@ const HomeContent = () => {
                             </Card.Body>
                         </Card>
                     </Col>
+<<<<<<< HEAD
                     <Col>
                         <Card style={{ width: '20rem' }}>
+=======
+                    <Col sm>
+                        <Card style={{ width: '30rem' }}>
+>>>>>>> origin/master
                             <Image src={HomeCardTwo}/>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
@@ -45,8 +55,13 @@ const HomeContent = () => {
                             </Card.Body>
                         </Card>
                     </Col>
+<<<<<<< HEAD
                     <Col>
                         <Card style={{ width: '20rem' }}>
+=======
+                    <Col sm>
+                        <Card style={{ width: '30rem' }}>
+>>>>>>> origin/master
                             <Image src={HomeCardThree}/>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>

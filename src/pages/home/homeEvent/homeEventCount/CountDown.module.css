@@ -1,13 +1,26 @@
 @font-face {
     src: url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 }
+<<<<<<< HEAD
 
+=======
+.timerContainer {
+    box-sizing: border-box;
+    width: 400px;
+    height: 400px;
+
+}
+>>>>>>> origin/master
 .timer div:first-child {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 .timerIcon h3 {
+<<<<<<< HEAD
+=======
+    margin: 0;
+>>>>>>> origin/master
     font-size: 5em;
     color: #666666;
 }
@@ -16,7 +29,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
     justify-content: center;
     padding-bottom: 7rem;
     padding-top: 2em;
@@ -43,7 +59,11 @@ h2 {
 }
 
 section p:first-child, .timer div:last-child span {
+<<<<<<< HEAD
     font-size: 3em;
+=======
+    font-size: 5em;
+>>>>>>> origin/master
     margin: 0;
     background-color: #ffffff;
 }

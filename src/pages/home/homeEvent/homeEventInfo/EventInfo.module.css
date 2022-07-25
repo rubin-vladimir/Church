@@ -3,14 +3,25 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+<<<<<<< HEAD
     padding-top: 10em;
     padding-left: 10rem;
+=======
+    padding-bottom: 7rem;
+    padding-top: 2em;
+    padding-left: 10rem;
+    margin-top: 40px;
+>>>>>>> origin/master
     margin-left: 50px;
     width: 100%;
     height: 100%;
 }
 .wrapper h2 {
+<<<<<<< HEAD
     font-size: 28px;
+=======
+    font-size: 26px;
+>>>>>>> origin/master
     font-weight: 400;
 }
 .wrapper p {

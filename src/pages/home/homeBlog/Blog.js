@@ -14,10 +14,17 @@ const Blog = () => {
                 </h2>
                 <p>I’m fancy heading shortcode description and above is the Heading!</p>
                 <Row>
+<<<<<<< HEAD
                     <Col style={{paddingBottom:20}}>
                         <Card style={{ width: '18em' }}>
                             <Image src={HomeCardOne}/>
                             <Card.Body >
+=======
+                    <Col>
+                        <Card style={{ width: '21rem' }}>
+                            <Image src={HomeCardOne}/>
+                            <Card.Body>
+>>>>>>> origin/master
                                 <Card.Title>Card Title</Card.Title>
                                 <p>
                                     <a href='#' target="_blank">
@@ -28,8 +35,13 @@ const Blog = () => {
                             </Card.Body>
                         </Card>
                     </Col>
+<<<<<<< HEAD
                     <Col style={{paddingBottom:20}}>
                         <Card style={{ width: '18em' }}>
+=======
+                    <Col sm>
+                        <Card style={{ width: '21rem' }}>
+>>>>>>> origin/master
                             <Image src={HomeCardTwo}/>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
@@ -42,8 +54,13 @@ const Blog = () => {
                             </Card.Body>
                         </Card>
                     </Col>
+<<<<<<< HEAD
                     <Col style={{paddingBottom:20}}>
                         <Card style={{ width: '18em' }}>
+=======
+                    <Col sm>
+                        <Card style={{ width: '21rem' }}>
+>>>>>>> origin/master
                             <Image src={HomeCardThree}/>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
@@ -56,8 +73,13 @@ const Blog = () => {
                             </Card.Body>
                         </Card>
                     </Col>
+<<<<<<< HEAD
                     <Col style={{paddingBottom:20}}>
                         <Card style={{ width: '18em' }}>
+=======
+                    <Col sm>
+                        <Card style={{ width: '21rem' }}>
+>>>>>>> origin/master
                             <Image src={HomeCardThree}/>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>

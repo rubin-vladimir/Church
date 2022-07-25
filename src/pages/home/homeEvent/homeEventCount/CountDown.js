@@ -12,7 +12,11 @@ const CountDown = () => {
     let interval = useRef();
 
     const startTimer = () => {
+<<<<<<< HEAD
       const countDownDate = new Date('July 30, 2022 10:30:00').getTime();
+=======
+      const countDownDate = new Date('July 12, 2022 10:30:00').getTime();
+>>>>>>> origin/master
 
       interval = setInterval(() => {
           const now = new Date().getTime();

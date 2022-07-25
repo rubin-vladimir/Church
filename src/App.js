@@ -8,7 +8,10 @@ import About from "./pages/About";
 import Home from "./pages/home/Home";
 import Contacts from "./pages/Contacts";
 import Blog from "./pages/Blog";
+<<<<<<< HEAD
 import Gallery from "./pages/gallery/Gallery";
+=======
+>>>>>>> origin/master
 
 const App = () => {
   return (
@@ -20,7 +23,10 @@ const App = () => {
                 <Route exact path="about" element={<About/>} />
                 <Route path="contacts" element={<Contacts/>} />
                 <Route path="blog" element={<Blog/>} />
+<<<<<<< HEAD
                 <Route path="gallery" element={<Gallery/>} />
+=======
+>>>>>>> origin/master
             </Routes>
         </Router>
     </div>

@@ -6,8 +6,11 @@ import styled from "styled-components";
 const Styles = styled.div`
 .navbar {
   margin-bottom: 0;
+<<<<<<< HEAD
   
   
+=======
+>>>>>>> origin/master
 }
 `
 
@@ -34,7 +37,10 @@ export default class Header extends Component {
                                 <Nav.Link href="/about" className="fs-4">About As</Nav.Link>
                                 <Nav.Link href="/contacts" className="fs-4">Contacts</Nav.Link>
                                 <Nav.Link href="/blog" className="fs-4">Blog</Nav.Link>
+<<<<<<< HEAD
                                 <Nav.Link href="/gallery" className="fs-4">Gallery</Nav.Link>
+=======
+>>>>>>> origin/master
                             </Nav>
                             <Form className="d-flex">
                                 <Form.Control
