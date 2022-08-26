@@ -3,7 +3,8 @@ import CarouselBox from "../../components/CarouselBox";
 import HomeEvent from "./homeEvent/HomeEvent";
 import HomeContent from "./homeContent/HomeContent";
 import Blog from "./homeBlog/Blog";
-import HomeDonate from "./homeEvent/homeDonate/HomeDonate";
+import HomeGallery from "./homeGallery/HomeGallery";
+import Footer from "./homeFooter/Footer";
 
 
 
@@ -15,7 +16,8 @@ export default class Home extends Component {
                 <HomeEvent />
                 <HomeContent />
                 <Blog />
-                <HomeDonate />
+                <HomeGallery />
+                <Footer />
             </div>
         )
     }

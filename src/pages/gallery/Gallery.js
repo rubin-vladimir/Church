@@ -9,7 +9,7 @@ const Gallery = () => {
 
         <div>
             <div className={s.container}>
-                <h1> <span>Church Gallery</span></h1>
+                <h2> <span>Church Gallery</span></h2>
             </div>
             <GalleryContent/>
 

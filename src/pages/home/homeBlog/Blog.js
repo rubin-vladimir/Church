@@ -9,58 +9,15 @@ const Blog = () => {
     return (
         <div className={s.cardContainer}>
             <Container>
-                <h2>
-                    Featured<strong> Staff</strong>
-                </h2>
-                <p>I’m fancy heading shortcode description and above is the Heading!</p>
+                <div className={s.sectionTitle}>
+                    <h2 >
+                        Our<strong> donate</strong>
+                    </h2>
+                    <p className={s.infoTitle}>I’m fancy heading shortcode description and above is the Heading!</p>
+                </div>
                 <Row>
-<<<<<<< HEAD
                     <Col style={{paddingBottom:20}}>
-                        <Card style={{ width: '18em' }}>
-                            <Image src={HomeCardOne}/>
-                            <Card.Body >
-=======
-                    <Col>
-                        <Card style={{ width: '21rem' }}>
-                            <Image src={HomeCardOne}/>
-                            <Card.Body>
->>>>>>> origin/master
-                                <Card.Title>Card Title</Card.Title>
-                                <p>
-                                    <a href='#' target="_blank">
-                                        <span>Some quick example text to build
-                                    bulk of the card's content.</span>
-                                    </a>
-                                </p>
-                            </Card.Body>
-                        </Card>
-                    </Col>
-<<<<<<< HEAD
-                    <Col style={{paddingBottom:20}}>
-                        <Card style={{ width: '18em' }}>
-=======
-                    <Col sm>
-                        <Card style={{ width: '21rem' }}>
->>>>>>> origin/master
-                            <Image src={HomeCardTwo}/>
-                            <Card.Body>
-                                <Card.Title>Card Title</Card.Title>
-                                <p>
-                                    <a href='#' target="_blank">
-                                        <span>Some quick example text to build
-                                    bulk of the card's content.</span>
-                                    </a>
-                                </p>
-                            </Card.Body>
-                        </Card>
-                    </Col>
-<<<<<<< HEAD
-                    <Col style={{paddingBottom:20}}>
-                        <Card style={{ width: '18em' }}>
-=======
-                    <Col sm>
-                        <Card style={{ width: '21rem' }}>
->>>>>>> origin/master
+                        <Card style={{ width: '18rem' }}>
                             <Image src={HomeCardThree}/>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
@@ -73,13 +30,38 @@ const Blog = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-<<<<<<< HEAD
+                    <Col style={{paddingBottom:20}}>
+                        <Card style={{ width: '18rem' }}>
+                            <Image src={HomeCardTwo}/>
+                            <Card.Body>
+                                <Card.Title>Card Title</Card.Title>
+                                <p>
+                                    <a href='#' target="_blank">
+                                        <span>Some quick example text to build
+                                    bulk of the card's content.</span>
+                                    </a>
+                                </p>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+
+                    <Col style={{paddingBottom:20}}>
+                        <Card style={{ width: '18rem' }}>
+                            <Image src={HomeCardOne}/>
+                            <Card.Body>
+                                <Card.Title>Card Title</Card.Title>
+                                <p>
+                                    <a href='#' target="_blank">
+                                        <span>Some quick example text to build
+                                    bulk of the card's content.</span>
+                                    </a>
+                                </p>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+
                     <Col style={{paddingBottom:20}}>
                         <Card style={{ width: '18em' }}>
-=======
-                    <Col sm>
-                        <Card style={{ width: '21rem' }}>
->>>>>>> origin/master
                             <Image src={HomeCardThree}/>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>

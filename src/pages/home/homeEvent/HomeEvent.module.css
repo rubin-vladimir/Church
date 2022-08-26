@@ -1,7 +1,8 @@
 .wrapper {
-<<<<<<< HEAD
     background: #f9f1e6;
-=======
-    background: #e4ebef;
->>>>>>> origin/master
+}
+.content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 }

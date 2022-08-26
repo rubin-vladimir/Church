@@ -1,0 +1,27 @@
+h3 {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 20px 0 13px
+}
+p {
+  color: #ccc0c0;
+}
+
+.container {
+    height: 300px;
+    background: #53504c;
+}
+.infoChurch{
+    width: 100%;
+    color: #f9f1e6;
+    display: flex;
+    justify-content: space-between;
+
+}
+.infoCard {
+    width: 33%;
+    color: #ccc0c0;
+    font-weight: 300;
+    margin: 20px 30px;
+    padding: 40px 40px 0 60px;
+}

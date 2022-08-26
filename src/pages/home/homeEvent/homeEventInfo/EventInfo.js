@@ -5,11 +5,7 @@ import {Container} from "react-bootstrap";
 const EventInfo = () => {
     return (
         <div>
-<<<<<<< HEAD
            <Container >
-=======
-           <Container fluid={"auto"}>
->>>>>>> origin/master
                <section className={s.wrapper}>
                    <h2>
                        <strong> Upcoming Event </strong>
@@ -26,7 +22,6 @@ const EventInfo = () => {
                    </p>
                </section>
            </Container>
-
         </div>
     );
 };
